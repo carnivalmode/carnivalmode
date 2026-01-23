@@ -1,7 +1,6 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=carnivalmode)
-<!--
-**carnivalmode/carnivalmode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ wait guys i did it
 
 Here are some ideas to get you started:
 
