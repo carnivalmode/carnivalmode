@@ -1,6 +1,5 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=carnivalmode)
 
-hi : )
-
+i feel so alone , noone should feel this way
 
