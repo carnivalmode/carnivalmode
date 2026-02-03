@@ -12,6 +12,6 @@ tried to speak but nobody could hear me
    onMouseOver="document.bgColor='orchid'"
    onMouseOut="document.bgColor='black'">strawpahge</a>
 
-     ![Alt text](https://i.postimg.cc/brvq33zg/image.png)png
+how to add pictures..
 
 
