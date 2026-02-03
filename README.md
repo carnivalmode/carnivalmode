@@ -8,7 +8,7 @@ tried to speak but nobody could hear me
    onMouseOver="document.bgColor='orchid'"
    onMouseOut="document.bgColor='black'">atabook</a>
 
-   <a href = "(https://ephmeralify.straw.page)"
+   <a href = "https://ephmeralify.straw.page"
    onMouseOver="document.bgColor='orchid'"
    onMouseOut="document.bgColor='black'">strawpahge</a>
 
