@@ -4,6 +4,8 @@
 tried to speak but nobody could hear me 
 /lyr
 
+looking for green names.. more.. i wanan collect you all!
+if i follow you, i think ur cool and i wanna be friends : )
 <a href = "https://branzycraft.atabook.org/"
    onMouseOver="document.bgColor='orchid'"
    onMouseOut="document.bgColor='black'">atabook</a>
@@ -12,6 +14,5 @@ tried to speak but nobody could hear me
    onMouseOver="document.bgColor='orchid'"
    onMouseOut="document.bgColor='black'">strawpahge</a>
 
-i just realized i can follow people i htink look awesome so... if i follow u i like ur skin and id like to interact one day : )
 
 
