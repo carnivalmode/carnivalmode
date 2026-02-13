@@ -1,8 +1,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=carnivalmode)
 
-tried to speak but nobody could hear me 
-/lyr
+i am connor murphy
 
 looking for green names.. more.. i wanan collect you all!
 if i follow you, i think ur cool and i wanna be friends : )
