@@ -14,5 +14,5 @@ if i follow you, i think ur cool and i wanna be friends : )
    onMouseOver="document.bgColor='orchid'"
    onMouseOut="document.bgColor='black'">strawpahge</a>
 
-
+hi im back to the friends that care :p 
 
