@@ -15,4 +15,5 @@ if i follow you, i think ur cool and i wanna be friends : )
    onMouseOut="document.bgColor='black'">strawpahge</a>
 
 hi im back!! for the friends that care :p 
+n1 fractions hater
 
